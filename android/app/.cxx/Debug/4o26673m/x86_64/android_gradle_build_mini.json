@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/jiaoyanguopei/FlutterDev/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/jiaoyanguopei/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/jiaoyanguopei/Desktop/3401 作业/lab 5 6 一起的/lab5-6-main/android/app/.cxx/Debug/4o26673m/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/jiaoyanguopei/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/jiaoyanguopei/Desktop/3401 作业/lab 5 6 一起的/lab5-6-main/android/app/.cxx/Debug/4o26673m/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

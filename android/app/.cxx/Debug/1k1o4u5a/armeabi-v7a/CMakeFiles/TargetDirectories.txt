@@ -1,0 +1,2 @@
+F:/3401 lab/foodly_restaurant/foodly_restaurant/android/app/.cxx/Debug/1k1o4u5a/armeabi-v7a/CMakeFiles/edit_cache.dir
+F:/3401 lab/foodly_restaurant/foodly_restaurant/android/app/.cxx/Debug/1k1o4u5a/armeabi-v7a/CMakeFiles/rebuild_cache.dir
